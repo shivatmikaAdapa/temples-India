@@ -10,6 +10,7 @@ img{
 html{
     text-align:center;
     background-image:url("https://static.vecteezy.com/system/resources/previews/008/902/446/non_2x/silhouette-of-traditional-thai-temple-on-gradient-background-vector.jpg")
+    background-size:cover;
 }
 .align{
     text-align:justify;
